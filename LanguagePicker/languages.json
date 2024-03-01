@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Rust",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Go",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Lua",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Python",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "PHP",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "JavaScript",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "TypeScript",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Ruby",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "C#",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Haskell",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "OCaml",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Odin",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Zig",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "C",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "C++",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Clojure",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Lisp",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Java",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Elixir",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Swift",
+    "successes": 0,
+    "failures": 0
+  },
+  {
+    "name": "Objective-C",
+    "successes": 0,
+    "failures": 0
+  }
+]
